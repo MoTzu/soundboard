@@ -1,0 +1,2117 @@
+[
+    {
+        "name": "12monkeys",
+        "category": "12monkeys",
+        "src": "audio/12monkeys/12monkeys.wav"
+    },
+    {
+        "name": "divergent",
+        "category": "12monkeys",
+        "src": "audio/12monkeys/divergent.wav"
+    },
+    {
+        "name": "drugsdoses",
+        "category": "12monkeys",
+        "src": "audio/12monkeys/drugsdoses.wav"
+    },
+    {
+        "name": "fonecall",
+        "category": "12monkeys",
+        "src": "audio/12monkeys/fonecall.wav"
+    },
+    {
+        "name": "fuctup",
+        "category": "12monkeys",
+        "src": "audio/12monkeys/fuctup.wav"
+    },
+    {
+        "name": "my chair",
+        "category": "12monkeys",
+        "src": "audio/12monkeys/my chair.wav"
+    },
+    {
+        "name": "Groovy",
+        "category": "Alice B Toklas",
+        "src": "audio/Alice B Toklas/Groovy.mp3"
+    },
+    {
+        "name": "hip-full",
+        "category": "Alice B Toklas",
+        "src": "audio/Alice B Toklas/hip-full.mp3"
+    },
+    {
+        "name": "HippestGuyAround",
+        "category": "Alice B Toklas",
+        "src": "audio/Alice B Toklas/HippestGuyAround.wav"
+    },
+    {
+        "name": "ILoveYouSir",
+        "category": "Alice B Toklas",
+        "src": "audio/Alice B Toklas/ILoveYouSir.mp3"
+    },
+    {
+        "name": "PluckYourself",
+        "category": "Alice B Toklas",
+        "src": "audio/Alice B Toklas/PluckYourself.mp3"
+    },
+    {
+        "name": "SoHipItHurts",
+        "category": "Alice B Toklas",
+        "src": "audio/Alice B Toklas/SoHipItHurts.wav"
+    },
+    {
+        "name": "unhip",
+        "category": "Alice B Toklas",
+        "src": "audio/Alice B Toklas/unhip.mp3"
+    },
+    {
+        "name": "VeryUnhip",
+        "category": "Alice B Toklas",
+        "src": "audio/Alice B Toklas/VeryUnhip.wav"
+    },
+    {
+        "name": "vow-machinery",
+        "category": "Alice B Toklas",
+        "src": "audio/Alice B Toklas/vow-machinery.mp3"
+    },
+    {
+        "name": "AnnieHall-concept",
+        "category": "Annie Hall",
+        "src": "audio/Annie Hall/AnnieHall-concept.wav"
+    },
+    {
+        "name": "AnnieHall-good-meeting",
+        "category": "Annie Hall",
+        "src": "audio/Annie Hall/AnnieHall-good-meeting.wav"
+    },
+    {
+        "name": "AnnieHall-meetings",
+        "category": "Annie Hall",
+        "src": "audio/Annie Hall/AnnieHall-meetings.wav"
+    },
+    {
+        "name": "AnnieHall-planet-earth",
+        "category": "Annie Hall",
+        "src": "audio/Annie Hall/AnnieHall-planet-earth.wav"
+    },
+    {
+        "name": "Good Answer",
+        "category": "Back to School",
+        "src": "audio/Back to School/Good Answer.wav"
+    },
+    {
+        "name": "Good Teacher",
+        "category": "Back to School",
+        "src": "audio/Back to School/Good Teacher.wav"
+    },
+    {
+        "name": "Im a lover",
+        "category": "Back to School",
+        "src": "audio/Back to School/Im a lover.wav"
+    },
+    {
+        "name": "Klimt",
+        "category": "Back to School",
+        "src": "audio/Back to School/Klimt.wav"
+    },
+    {
+        "name": "Mr Helper",
+        "category": "Back to School",
+        "src": "audio/Back to School/Mr Helper.wav"
+    },
+    {
+        "name": "no offense",
+        "category": "Back to School",
+        "src": "audio/Back to School/no offense.wav"
+    },
+    {
+        "name": "BarFly-BTN",
+        "category": "Barfly",
+        "src": "audio/Barfly/BarFly-BTN.mp3"
+    },
+    {
+        "name": "BarFly-GoldenBars",
+        "category": "Barfly",
+        "src": "audio/Barfly/BarFly-GoldenBars.mp3"
+    },
+    {
+        "name": "BarFly-Peace",
+        "category": "Barfly",
+        "src": "audio/Barfly/BarFly-Peace.mp3"
+    },
+    {
+        "name": "BarFly-Radio",
+        "category": "Barfly",
+        "src": "audio/Barfly/BarFly-Radio.mp3"
+    },
+    {
+        "name": "BarFly-Ugly",
+        "category": "Barfly",
+        "src": "audio/Barfly/BarFly-Ugly.mp3"
+    },
+    {
+        "name": "BarFly-Woman",
+        "category": "Barfly",
+        "src": "audio/Barfly/BarFly-Woman.mp3"
+    },
+    {
+        "name": "BarFly-Working",
+        "category": "Barfly",
+        "src": "audio/Barfly/BarFly-Working.mp3"
+    },
+    {
+        "name": "BarFly2",
+        "category": "Barfly",
+        "src": "audio/Barfly/BarFly2.mp3"
+    },
+    {
+        "name": "BarFlypaid1",
+        "category": "Barfly",
+        "src": "audio/Barfly/BarFlypaid1.mp3"
+    },
+    {
+        "name": "BigWedIntro2",
+        "category": "Big Wednesday",
+        "src": "audio/Big Wednesday/BigWedIntro2.wav"
+    },
+    {
+        "name": "BigWedIntro3_1",
+        "category": "Big Wednesday",
+        "src": "audio/Big Wednesday/BigWedIntro3_1.wav"
+    },
+    {
+        "name": "BigWedIntro4_1",
+        "category": "Big Wednesday",
+        "src": "audio/Big Wednesday/BigWedIntro4_1.wav"
+    },
+    {
+        "name": "BigWedStuffit2",
+        "category": "Big Wednesday",
+        "src": "audio/Big Wednesday/BigWedStuffit2.wav"
+    },
+    {
+        "name": "BigWed_Friends",
+        "category": "Big Wednesday",
+        "src": "audio/Big Wednesday/BigWed_Friends.wav"
+    },
+    {
+        "name": "BigWed_surfers1",
+        "category": "Big Wednesday",
+        "src": "audio/Big Wednesday/BigWed_surfers1.mp3"
+    },
+    {
+        "name": "BW_more_like_15",
+        "category": "Big Wednesday",
+        "src": "audio/Big Wednesday/BW_more_like_15.wav"
+    },
+    {
+        "name": "BW_Peace_Brother",
+        "category": "Big Wednesday",
+        "src": "audio/Big Wednesday/BW_Peace_Brother.mp3"
+    },
+    {
+        "name": "GreenOnions1",
+        "category": "Big Wednesday",
+        "src": "audio/Big Wednesday/GreenOnions1.wav"
+    },
+    {
+        "name": "hippy",
+        "category": "Blue Juice",
+        "src": "audio/Blue Juice/hippy.wav"
+    },
+    {
+        "name": "mellow hippy",
+        "category": "Blue Juice",
+        "src": "audio/Blue Juice/mellow hippy.wav"
+    },
+    {
+        "name": "young bob",
+        "category": "Blue Juice",
+        "src": "audio/Blue Juice/young bob.wav"
+    },
+    {
+        "name": "beertalk",
+        "category": "Blue Velvet",
+        "src": "audio/Blue Velvet/beertalk.wav"
+    },
+    {
+        "name": "ele01",
+        "category": "Blue Velvet",
+        "src": "audio/Blue Velvet/ele01.wav"
+    },
+    {
+        "name": "ele04",
+        "category": "Blue Velvet",
+        "src": "audio/Blue Velvet/ele04.wav"
+    },
+    {
+        "name": "heineken",
+        "category": "Blue Velvet",
+        "src": "audio/Blue Velvet/heineken.wav"
+    },
+    {
+        "name": "letsf",
+        "category": "Blue Velvet",
+        "src": "audio/Blue Velvet/letsf.wav"
+    },
+    {
+        "name": "pheaven",
+        "category": "Blue Velvet",
+        "src": "audio/Blue Velvet/pheaven.wav"
+    },
+    {
+        "name": "wild03",
+        "category": "Blue Velvet",
+        "src": "audio/Blue Velvet/wild03.wav"
+    },
+    {
+        "name": "BIGGIRL",
+        "category": "Cary Grant",
+        "src": "audio/Cary Grant/BIGGIRL.WAV"
+    },
+    {
+        "name": "blatant foolishness",
+        "category": "Cary Grant",
+        "src": "audio/Cary Grant/blatant foolishness.wav"
+    },
+    {
+        "name": "cary grant romance",
+        "category": "Cary Grant",
+        "src": "audio/Cary Grant/cary grant romance.wav"
+    },
+    {
+        "name": "cheat",
+        "category": "Cary Grant",
+        "src": "audio/Cary Grant/cheat.wav"
+    },
+    {
+        "name": "Dr. Hapines",
+        "category": "Cary Grant",
+        "src": "audio/Cary Grant/Dr. Hapines.wav"
+    },
+    {
+        "name": "Dr. Healer",
+        "category": "Cary Grant",
+        "src": "audio/Cary Grant/Dr. Healer.wav"
+    },
+    {
+        "name": "GOOD2ME",
+        "category": "Cary Grant",
+        "src": "audio/Cary Grant/GOOD2ME.WAV"
+    },
+    {
+        "name": "GRANT",
+        "category": "Cary Grant",
+        "src": "audio/Cary Grant/GRANT.WAV"
+    },
+    {
+        "name": "gratful",
+        "category": "Cary Grant",
+        "src": "audio/Cary Grant/gratful.wav"
+    },
+    {
+        "name": "GRLLYK",
+        "category": "Cary Grant",
+        "src": "audio/Cary Grant/GRLLYK.WAV"
+    },
+    {
+        "name": "Hillbilly Radio",
+        "category": "Cary Grant",
+        "src": "audio/Cary Grant/Hillbilly Radio.wav"
+    },
+    {
+        "name": "homec",
+        "category": "Cary Grant",
+        "src": "audio/Cary Grant/homec.wav"
+    },
+    {
+        "name": "How do yo feel",
+        "category": "Cary Grant",
+        "src": "audio/Cary Grant/How do yo feel.wav"
+    },
+    {
+        "name": "I failed Miserably",
+        "category": "Cary Grant",
+        "src": "audio/Cary Grant/I failed Miserably.wav"
+    },
+    {
+        "name": "inbed",
+        "category": "Cary Grant",
+        "src": "audio/Cary Grant/inbed.wav"
+    },
+    {
+        "name": "neurotic",
+        "category": "Cary Grant",
+        "src": "audio/Cary Grant/neurotic.wav"
+    },
+    {
+        "name": "ntrelif",
+        "category": "Cary Grant",
+        "src": "audio/Cary Grant/ntrelif.wav"
+    },
+    {
+        "name": "politics",
+        "category": "Cary Grant",
+        "src": "audio/Cary Grant/politics.wav"
+    },
+    {
+        "name": "Pompus know it all",
+        "category": "Cary Grant",
+        "src": "audio/Cary Grant/Pompus know it all.wav"
+    },
+    {
+        "name": "The frightening things",
+        "category": "Cary Grant",
+        "src": "audio/Cary Grant/The frightening things.wav"
+    },
+    {
+        "name": "undress",
+        "category": "Cary Grant",
+        "src": "audio/Cary Grant/undress.wav"
+    },
+    {
+        "name": "virtue",
+        "category": "Cary Grant",
+        "src": "audio/Cary Grant/virtue.wav"
+    },
+    {
+        "name": "Why should a man die",
+        "category": "Cary Grant",
+        "src": "audio/Cary Grant/Why should a man die.wav"
+    },
+    {
+        "name": "LIAR1",
+        "category": "Chris Farley",
+        "src": "audio/Chris Farley/LIAR1.WAV"
+    },
+    {
+        "name": "3000 dollars",
+        "category": "Clint Eastwood",
+        "src": "audio/Clint Eastwood/3000 dollars.wav"
+    },
+    {
+        "name": "44 blast",
+        "category": "Clint Eastwood",
+        "src": "audio/Clint Eastwood/44 blast.wav"
+    },
+    {
+        "name": "44 mag",
+        "category": "Clint Eastwood",
+        "src": "audio/Clint Eastwood/44 mag.wav"
+    },
+    {
+        "name": "Aim interference",
+        "category": "Clint Eastwood",
+        "src": "audio/Clint Eastwood/Aim interference.wav"
+    },
+    {
+        "name": "blondie puta",
+        "category": "Clint Eastwood",
+        "src": "audio/Clint Eastwood/blondie puta.wav"
+    },
+    {
+        "name": "Blondieee",
+        "category": "Clint Eastwood",
+        "src": "audio/Clint Eastwood/Blondieee.wav"
+    },
+    {
+        "name": "Bob-get",
+        "category": "Clint Eastwood",
+        "src": "audio/Clint Eastwood/Bob-get.mp3"
+    },
+    {
+        "name": "broken up",
+        "category": "Clint Eastwood",
+        "src": "audio/Clint Eastwood/broken up.wav"
+    },
+    {
+        "name": "cue stick",
+        "category": "Clint Eastwood",
+        "src": "audio/Clint Eastwood/cue stick.wav"
+    },
+    {
+        "name": "damn",
+        "category": "Clint Eastwood",
+        "src": "audio/Clint Eastwood/damn.wav"
+    },
+    {
+        "name": "deserve",
+        "category": "Clint Eastwood",
+        "src": "audio/Clint Eastwood/deserve.wav"
+    },
+    {
+        "name": "devil bite your ass",
+        "category": "Clint Eastwood",
+        "src": "audio/Clint Eastwood/devil bite your ass.wav"
+    },
+    {
+        "name": "Dig",
+        "category": "Clint Eastwood",
+        "src": "audio/Clint Eastwood/Dig.wav"
+    },
+    {
+        "name": "Dog Shit",
+        "category": "Clint Eastwood",
+        "src": "audio/Clint Eastwood/Dog Shit.wav"
+    },
+    {
+        "name": "feel lucky 1",
+        "category": "Clint Eastwood",
+        "src": "audio/Clint Eastwood/feel lucky 1.wav"
+    },
+    {
+        "name": "feel lucky 2",
+        "category": "Clint Eastwood",
+        "src": "audio/Clint Eastwood/feel lucky 2.wav"
+    },
+    {
+        "name": "gbu1",
+        "category": "Clint Eastwood",
+        "src": "audio/Clint Eastwood/gbu1.wav"
+    },
+    {
+        "name": "gbu2",
+        "category": "Clint Eastwood",
+        "src": "audio/Clint Eastwood/gbu2.wav"
+    },
+    {
+        "name": "gbu3",
+        "category": "Clint Eastwood",
+        "src": "audio/Clint Eastwood/gbu3.wav"
+    },
+    {
+        "name": "gbu4",
+        "category": "Clint Eastwood",
+        "src": "audio/Clint Eastwood/gbu4.wav"
+    },
+    {
+        "name": "get lost",
+        "category": "Clint Eastwood",
+        "src": "audio/Clint Eastwood/get lost.wav"
+    },
+    {
+        "name": "hippy",
+        "category": "Clint Eastwood",
+        "src": "audio/Clint Eastwood/hippy.wav"
+    },
+    {
+        "name": "ingratitude",
+        "category": "Clint Eastwood",
+        "src": "audio/Clint Eastwood/ingratitude.wav"
+    },
+    {
+        "name": "limitations",
+        "category": "Clint Eastwood",
+        "src": "audio/Clint Eastwood/limitations.wav"
+    },
+    {
+        "name": "listen asshole",
+        "category": "Clint Eastwood",
+        "src": "audio/Clint Eastwood/listen asshole.wav"
+    },
+    {
+        "name": "make my day",
+        "category": "Clint Eastwood",
+        "src": "audio/Clint Eastwood/make my day.wav"
+    },
+    {
+        "name": "Oh Shit",
+        "category": "Clint Eastwood",
+        "src": "audio/Clint Eastwood/Oh Shit.wav"
+    },
+    {
+        "name": "see the job through",
+        "category": "Clint Eastwood",
+        "src": "audio/Clint Eastwood/see the job through.wav"
+    },
+    {
+        "name": "smith & wesson",
+        "category": "Clint Eastwood",
+        "src": "audio/Clint Eastwood/smith & wesson.wav"
+    },
+    {
+        "name": "Tidy Sum",
+        "category": "Clint Eastwood",
+        "src": "audio/Clint Eastwood/Tidy Sum.wav"
+    },
+    {
+        "name": "trouble adding",
+        "category": "Clint Eastwood",
+        "src": "audio/Clint Eastwood/trouble adding.wav"
+    },
+    {
+        "name": "Wholl collect it",
+        "category": "Clint Eastwood",
+        "src": "audio/Clint Eastwood/Wholl collect it.wav"
+    },
+    {
+        "name": "BENDOVER",
+        "category": "Dazed and Confused",
+        "src": "audio/Dazed and Confused/BENDOVER.WAV"
+    },
+    {
+        "name": "BENMJ",
+        "category": "Dazed and Confused",
+        "src": "audio/Dazed and Confused/BENMJ.WAV"
+    },
+    {
+        "name": "GEOWASH",
+        "category": "Dazed and Confused",
+        "src": "audio/Dazed and Confused/GEOWASH.WAV"
+    },
+    {
+        "name": "GOODGAME",
+        "category": "Dazed and Confused",
+        "src": "audio/Dazed and Confused/GOODGAME.WAV"
+    },
+    {
+        "name": "GOTCLU",
+        "category": "Dazed and Confused",
+        "src": "audio/Dazed and Confused/GOTCLU.WAV"
+    },
+    {
+        "name": "HEY",
+        "category": "Dazed and Confused",
+        "src": "audio/Dazed and Confused/HEY.WAV"
+    },
+    {
+        "name": "HONSTABE",
+        "category": "Dazed and Confused",
+        "src": "audio/Dazed and Confused/HONSTABE.WAV"
+    },
+    {
+        "name": "IN_76",
+        "category": "Dazed and Confused",
+        "src": "audio/Dazed and Confused/IN_76.WAV"
+    },
+    {
+        "name": "MJRBLSHT",
+        "category": "Dazed and Confused",
+        "src": "audio/Dazed and Confused/MJRBLSHT.WAV"
+    },
+    {
+        "name": "MSANTHRP",
+        "category": "Dazed and Confused",
+        "src": "audio/Dazed and Confused/MSANTHRP.WAV"
+    },
+    {
+        "name": "OUTABEER",
+        "category": "Dazed and Confused",
+        "src": "audio/Dazed and Confused/OUTABEER.WAV"
+    },
+    {
+        "name": "POTHEAD",
+        "category": "Dazed and Confused",
+        "src": "audio/Dazed and Confused/POTHEAD.WAV"
+    },
+    {
+        "name": "SAY_MAN",
+        "category": "Dazed and Confused",
+        "src": "audio/Dazed and Confused/SAY_MAN.WAV"
+    },
+    {
+        "name": "SEAMONKY",
+        "category": "Dazed and Confused",
+        "src": "audio/Dazed and Confused/SEAMONKY.WAV"
+    },
+    {
+        "name": "STRNGACD",
+        "category": "Dazed and Confused",
+        "src": "audio/Dazed and Confused/STRNGACD.WAV"
+    },
+    {
+        "name": "URINE",
+        "category": "Dazed and Confused",
+        "src": "audio/Dazed and Confused/URINE.WAV"
+    },
+    {
+        "name": "explain hell",
+        "category": "Dead Man",
+        "src": "audio/Dead Man/explain hell.wav"
+    },
+    {
+        "name": "give a shit",
+        "category": "Dead Man",
+        "src": "audio/Dead Man/give a shit.wav"
+    },
+    {
+        "name": "how do you",
+        "category": "Dead Man",
+        "src": "audio/Dead Man/how do you.wav"
+    },
+    {
+        "name": "Iggy Prayer",
+        "category": "Dead Man",
+        "src": "audio/Dead Man/Iggy Prayer.wav"
+    },
+    {
+        "name": "Im hit",
+        "category": "Dead Man",
+        "src": "audio/Dead Man/Im hit.wav"
+    },
+    {
+        "name": "shoot me",
+        "category": "Dead Man",
+        "src": "audio/Dead Man/shoot me.wav"
+    },
+    {
+        "name": "soft hair",
+        "category": "Dead Man",
+        "src": "audio/Dead Man/soft hair.wav"
+    },
+    {
+        "name": "Terrible",
+        "category": "Dead Man",
+        "src": "audio/Dead Man/Terrible.wav"
+    },
+    {
+        "name": "bet your sweets",
+        "category": "Dr Strangelove",
+        "src": "audio/Dr Strangelove/bet your sweets.wav"
+    },
+    {
+        "name": "Little Funny",
+        "category": "Dr Strangelove",
+        "src": "audio/Dr Strangelove/Little Funny.wav"
+    },
+    {
+        "name": "Premiere Kissoff",
+        "category": "Dr Strangelove",
+        "src": "audio/Dr Strangelove/Premiere Kissoff.wav"
+    },
+    {
+        "name": "PROFALAC",
+        "category": "Dr Strangelove",
+        "src": "audio/Dr Strangelove/PROFALAC.WAV"
+    },
+    {
+        "name": "VOMIT",
+        "category": "Dr Strangelove",
+        "src": "audio/Dr Strangelove/VOMIT.WAV"
+    },
+    {
+        "name": "321Gooo",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/321Gooo.wav"
+    },
+    {
+        "name": "babypark",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/babypark.wav"
+    },
+    {
+        "name": "badAtThisTrack",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/badAtThisTrack.wav"
+    },
+    {
+        "name": "BananaBurger",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/BananaBurger.wav"
+    },
+    {
+        "name": "banananas",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/banananas.wav"
+    },
+    {
+        "name": "Bananas-NoBananas",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/Bananas-NoBananas.wav"
+    },
+    {
+        "name": "bananas",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/bananas.wav"
+    },
+    {
+        "name": "bananas_Can_You_Say",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/bananas_Can_You_Say.wav"
+    },
+    {
+        "name": "Bananas_I_Said",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/Bananas_I_Said.wav"
+    },
+    {
+        "name": "banger",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/banger.wav"
+    },
+    {
+        "name": "basicMaths",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/basicMaths.wav"
+    },
+    {
+        "name": "best_racer_around",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/best_racer_around.wav"
+    },
+    {
+        "name": "blowedup",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/blowedup.wav"
+    },
+    {
+        "name": "BlueShell",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/BlueShell.wav"
+    },
+    {
+        "name": "bombkid",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/bombkid.wav"
+    },
+    {
+        "name": "boogiewow",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/boogiewow.wav"
+    },
+    {
+        "name": "boopaloop",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/boopaloop.wav"
+    },
+    {
+        "name": "bouncin_off_the_walls",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/bouncin_off_the_walls.wav"
+    },
+    {
+        "name": "bs082324",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/bs082324.aup3"
+    },
+    {
+        "name": "BurpsyCola",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/BurpsyCola.wav"
+    },
+    {
+        "name": "Cat_In_The_Hat",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/Cat_In_The_Hat.wav"
+    },
+    {
+        "name": "classic_gravy",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/classic_gravy.wav"
+    },
+    {
+        "name": "clip_that",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/clip_that.wav"
+    },
+    {
+        "name": "coconut_mauled",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/coconut_mauled.wav"
+    },
+    {
+        "name": "cottonpicken",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/cottonpicken.wav"
+    },
+    {
+        "name": "courtesyCall",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/courtesyCall.wav"
+    },
+    {
+        "name": "DangItBobby",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/DangItBobby.wav"
+    },
+    {
+        "name": "dangitDangIt",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/dangitDangIt.wav"
+    },
+    {
+        "name": "doesthatmakeissisit",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/doesthatmakeissisit.wav"
+    },
+    {
+        "name": "dolphinShoal",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/dolphinShoal.wav"
+    },
+    {
+        "name": "dolphinShoals2",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/dolphinShoals2.wav"
+    },
+    {
+        "name": "dolphinShoalsGuess",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/dolphinShoalsGuess.wav"
+    },
+    {
+        "name": "donkeyKong",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/donkeyKong.wav"
+    },
+    {
+        "name": "dontlikeit",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/dontlikeit.wav"
+    },
+    {
+        "name": "dontquoteme",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/dontquoteme.wav"
+    },
+    {
+        "name": "donut_mcnuggets",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/donut_mcnuggets.wav"
+    },
+    {
+        "name": "DoooinIt",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/DoooinIt.wav"
+    },
+    {
+        "name": "eatmydust",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/eatmydust.wav"
+    },
+    {
+        "name": "FiguredYouOut",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/FiguredYouOut.wav"
+    },
+    {
+        "name": "from_the_sound_of_my",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/from_the_sound_of_my.wav"
+    },
+    {
+        "name": "getBent",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/getBent.wav"
+    },
+    {
+        "name": "goodForYou",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/goodForYou.wav"
+    },
+    {
+        "name": "GoodGravy",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/GoodGravy.wav"
+    },
+    {
+        "name": "Gravous",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/Gravous.wav"
+    },
+    {
+        "name": "GravyGravyGravy",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/GravyGravyGravy.wav"
+    },
+    {
+        "name": "GravyMyGod",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/GravyMyGod.wav"
+    },
+    {
+        "name": "gravySwerve",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/gravySwerve.wav"
+    },
+    {
+        "name": "GreenShelled",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/GreenShelled.wav"
+    },
+    {
+        "name": "HadToSayThatGrumpy",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/HadToSayThatGrumpy.wav"
+    },
+    {
+        "name": "half_a_second",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/half_a_second.wav"
+    },
+    {
+        "name": "he_opened_his_mouth",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/he_opened_his_mouth.wav"
+    },
+    {
+        "name": "hhyeahh",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/hhyeahh.wav"
+    },
+    {
+        "name": "hoohaw",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/hoohaw.wav"
+    },
+    {
+        "name": "hopeyourecorded",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/hopeyourecorded.wav"
+    },
+    {
+        "name": "horsewhipped",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/horsewhipped.wav"
+    },
+    {
+        "name": "ICannotBreathe",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/ICannotBreathe.wav"
+    },
+    {
+        "name": "IGuess",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/IGuess.wav"
+    },
+    {
+        "name": "impressive",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/impressive.wav"
+    },
+    {
+        "name": "ItsFrownedUpon",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/ItsFrownedUpon.wav"
+    },
+    {
+        "name": "JiggleHisHandleDubba",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/JiggleHisHandleDubba.wav"
+    },
+    {
+        "name": "jiggle_his_handle",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/jiggle_his_handle.wav"
+    },
+    {
+        "name": "k-a-r-t-e-d",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/k-a-r-t-e-d.wav"
+    },
+    {
+        "name": "LoveMe",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/LoveMe.wav"
+    },
+    {
+        "name": "masicBaths",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/masicBaths.wav"
+    },
+    {
+        "name": "MeddlingKids",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/MeddlingKids.wav"
+    },
+    {
+        "name": "mmmhmmm",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/mmmhmmm.wav"
+    },
+    {
+        "name": "MooseTurd-1",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/MooseTurd-1.wav"
+    },
+    {
+        "name": "MooseTurd-2",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/MooseTurd-2.wav"
+    },
+    {
+        "name": "more_players",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/more_players.wav"
+    },
+    {
+        "name": "MushroomGeorge",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/MushroomGeorge.wav"
+    },
+    {
+        "name": "my-name-is",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/my-name-is.wav"
+    },
+    {
+        "name": "not a lou",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/not a lou.wav"
+    },
+    {
+        "name": "not-doing-well",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/not-doing-well.wav"
+    },
+    {
+        "name": "not",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/not.wav"
+    },
+    {
+        "name": "NotAMoron",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/NotAMoron.wav"
+    },
+    {
+        "name": "NoTrackWhereImGoing",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/NoTrackWhereImGoing.wav"
+    },
+    {
+        "name": "not_a_cat",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/not_a_cat.wav"
+    },
+    {
+        "name": "not_wrong",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/not_wrong.wav"
+    },
+    {
+        "name": "ohmybloodygod",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/ohmybloodygod.wav"
+    },
+    {
+        "name": "peachespeaches",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/peachespeaches.wav"
+    },
+    {
+        "name": "peanutbutterjelly",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/peanutbutterjelly.wav"
+    },
+    {
+        "name": "raid",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/raid.wav"
+    },
+    {
+        "name": "rainbow_damage",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/rainbow_damage.wav"
+    },
+    {
+        "name": "RambyDamby",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/RambyDamby.mp3"
+    },
+    {
+        "name": "RambyDamby",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/RambyDamby.wav"
+    },
+    {
+        "name": "RedShellDangItBobby",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/RedShellDangItBobby.wav"
+    },
+    {
+        "name": "RedShellHurt",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/RedShellHurt.wav"
+    },
+    {
+        "name": "redShells_ENOUGH",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/redShells_ENOUGH.wav"
+    },
+    {
+        "name": "redShells_soMany",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/redShells_soMany.wav"
+    },
+    {
+        "name": "rightAttheEnd",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/rightAttheEnd.wav"
+    },
+    {
+        "name": "riz-hip",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/riz-hip.wav"
+    },
+    {
+        "name": "rockrockmountain",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/rockrockmountain.wav"
+    },
+    {
+        "name": "schnoodledoops",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/schnoodledoops.wav"
+    },
+    {
+        "name": "SnowLand",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/SnowLand.wav"
+    },
+    {
+        "name": "Superhorn",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/Superhorn.wav"
+    },
+    {
+        "name": "sweater",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/sweater.mp3"
+    },
+    {
+        "name": "sweater",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/sweater.wav"
+    },
+    {
+        "name": "ThankYouGravy",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/ThankYouGravy.wav"
+    },
+    {
+        "name": "Tie-NotWearing",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/Tie-NotWearing.wav"
+    },
+    {
+        "name": "today-well-be-playing",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/today-well-be-playing.wav"
+    },
+    {
+        "name": "toiletsounds",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/toiletsounds.wav"
+    },
+    {
+        "name": "unsportsmanlike",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/unsportsmanlike.wav"
+    },
+    {
+        "name": "UsuallySmart",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/UsuallySmart.wav"
+    },
+    {
+        "name": "weatherman-insult",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/weatherman-insult.wav"
+    },
+    {
+        "name": "what",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/what.wav"
+    },
+    {
+        "name": "whatIndeed",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/whatIndeed.wav"
+    },
+    {
+        "name": "whatwasthat",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/whatwasthat.wav"
+    },
+    {
+        "name": "WhatWhat",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/WhatWhat.wav"
+    },
+    {
+        "name": "what_the_floppy",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/what_the_floppy.wav"
+    },
+    {
+        "name": "why you little",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/why you little.wav"
+    },
+    {
+        "name": "WHYYYYY",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/WHYYYYY.wav"
+    },
+    {
+        "name": "winning",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/winning.wav"
+    },
+    {
+        "name": "yeah_that",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/yeah_that.wav"
+    },
+    {
+        "name": "YouAreNotALoser",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/YouAreNotALoser.wav"
+    },
+    {
+        "name": "yourSlappin",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/yourSlappin.wav"
+    },
+    {
+        "name": "you_threw_me_off",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/you_threw_me_off.wav"
+    },
+    {
+        "name": "Duel",
+        "category": "duel",
+        "src": "audio/duel/Duel.wav"
+    },
+    {
+        "name": "I play meat",
+        "category": "duel",
+        "src": "audio/duel/I play meat.wav"
+    },
+    {
+        "name": "sick man",
+        "category": "duel",
+        "src": "audio/duel/sick man.wav"
+    },
+    {
+        "name": "thisisgrass",
+        "category": "Easy Rider",
+        "src": "audio/Easy Rider/thisisgrass.wav"
+    },
+    {
+        "name": "BELRING",
+        "category": "Fast Times",
+        "src": "audio/Fast Times/BELRING.WAV"
+    },
+    {
+        "name": "HEYBUD",
+        "category": "Fast Times",
+        "src": "audio/Fast Times/HEYBUD.WAV"
+    },
+    {
+        "name": "JMPONME",
+        "category": "Fast Times",
+        "src": "audio/Fast Times/JMPONME.WAV"
+    },
+    {
+        "name": "JSTSEX",
+        "category": "Fast Times",
+        "src": "audio/Fast Times/JSTSEX.WAV"
+    },
+    {
+        "name": "LEDZEP4",
+        "category": "Fast Times",
+        "src": "audio/Fast Times/LEDZEP4.WAV"
+    },
+    {
+        "name": "NOSHRT",
+        "category": "Fast Times",
+        "src": "audio/Fast Times/NOSHRT.WAV"
+    },
+    {
+        "name": "PHN#",
+        "category": "Fast Times",
+        "src": "audio/Fast Times/PHN#.WAV"
+    },
+    {
+        "name": "SOWASTED",
+        "category": "Fast Times",
+        "src": "audio/Fast Times/SOWASTED.WAV"
+    },
+    {
+        "name": "SXASTL",
+        "category": "Fast Times",
+        "src": "audio/Fast Times/SXASTL.WAV"
+    },
+    {
+        "name": "UDICK",
+        "category": "Fast Times",
+        "src": "audio/Fast Times/UDICK.WAV"
+    },
+    {
+        "name": "VIBE",
+        "category": "Fast Times",
+        "src": "audio/Fast Times/VIBE.WAV"
+    },
+    {
+        "name": "WHATAREU",
+        "category": "Fast Times",
+        "src": "audio/Fast Times/WHATAREU.WAV"
+    },
+    {
+        "name": "meat popsicle",
+        "category": "Fifth Element",
+        "src": "audio/Fifth Element/meat popsicle.wav"
+    },
+    {
+        "name": "police action",
+        "category": "Fifth Element",
+        "src": "audio/Fifth Element/police action.wav"
+    },
+    {
+        "name": "3 coffins",
+        "category": "Fistful of Dollars",
+        "src": "audio/Fistful of Dollars/3 coffins.wav"
+    },
+    {
+        "name": "4 coffins",
+        "category": "Fistful of Dollars",
+        "src": "audio/Fistful of Dollars/4 coffins.wav"
+    },
+    {
+        "name": "apologize",
+        "category": "Fistful of Dollars",
+        "src": "audio/Fistful of Dollars/apologize.wav"
+    },
+    {
+        "name": "gun shots 1",
+        "category": "Fistful of Dollars",
+        "src": "audio/Fistful of Dollars/gun shots 1.wav"
+    },
+    {
+        "name": "ANYTM",
+        "category": "Full Metal Jacket",
+        "src": "audio/Full Metal Jacket/ANYTM.WAV"
+    },
+    {
+        "name": "HEETHEN",
+        "category": "Full Metal Jacket",
+        "src": "audio/Full Metal Jacket/HEETHEN.WAV"
+    },
+    {
+        "name": "WELNOSHT",
+        "category": "Full Metal Jacket",
+        "src": "audio/Full Metal Jacket/WELNOSHT.WAV"
+    },
+    {
+        "name": "TieffenSchlam",
+        "category": "Grumpy",
+        "src": "audio/Grumpy/TieffenSchlam.mp3"
+    },
+    {
+        "name": "AFTRWEEK",
+        "category": "Jack Van Impe",
+        "src": "audio/Jack Van Impe/AFTRWEEK.WAV"
+    },
+    {
+        "name": "CALORRIT",
+        "category": "Jack Van Impe",
+        "src": "audio/Jack Van Impe/CALORRIT.WAV"
+    },
+    {
+        "name": "FINALOFR",
+        "category": "Jack Van Impe",
+        "src": "audio/Jack Van Impe/FINALOFR.WAV"
+    },
+    {
+        "name": "JUDGE",
+        "category": "Jack Van Impe",
+        "src": "audio/Jack Van Impe/JUDGE.WAV"
+    },
+    {
+        "name": "MOVIE",
+        "category": "Jack Van Impe",
+        "src": "audio/Jack Van Impe/MOVIE.WAV"
+    },
+    {
+        "name": "OPERATOR",
+        "category": "Jack Van Impe",
+        "src": "audio/Jack Van Impe/OPERATOR.WAV"
+    },
+    {
+        "name": "PEACE",
+        "category": "Jack Van Impe",
+        "src": "audio/Jack Van Impe/PEACE.WAV"
+    },
+    {
+        "name": "SILIBUL",
+        "category": "Jack Van Impe",
+        "src": "audio/Jack Van Impe/SILIBUL.WAV"
+    },
+    {
+        "name": "THRILL",
+        "category": "Jack Van Impe",
+        "src": "audio/Jack Van Impe/THRILL.WAV"
+    },
+    {
+        "name": "WATSCMNG",
+        "category": "Jack Van Impe",
+        "src": "audio/Jack Van Impe/WATSCMNG.WAV"
+    },
+    {
+        "name": "biglie",
+        "category": "Little Noises",
+        "src": "audio/Little Noises/biglie.wav"
+    },
+    {
+        "name": "born to loose",
+        "category": "Little Noises",
+        "src": "audio/Little Noises/born to loose.wav"
+    },
+    {
+        "name": "collaborate",
+        "category": "Little Noises",
+        "src": "audio/Little Noises/collaborate.wav"
+    },
+    {
+        "name": "doinit",
+        "category": "Little Noises",
+        "src": "audio/Little Noises/doinit.wav"
+    },
+    {
+        "name": "great",
+        "category": "Little Noises",
+        "src": "audio/Little Noises/great.wav"
+    },
+    {
+        "name": "guffaw",
+        "category": "Little Noises",
+        "src": "audio/Little Noises/guffaw.wav"
+    },
+    {
+        "name": "idea",
+        "category": "Little Noises",
+        "src": "audio/Little Noises/idea.wav"
+    },
+    {
+        "name": "Keen ability (born to loose)",
+        "category": "Little Noises",
+        "src": "audio/Little Noises/Keen ability (born to loose).wav"
+    },
+    {
+        "name": "little noises amiga",
+        "category": "Little Noises",
+        "src": "audio/Little Noises/little noises amiga.wav"
+    },
+    {
+        "name": "LOSER",
+        "category": "Little Noises",
+        "src": "audio/Little Noises/LOSER.WAV"
+    },
+    {
+        "name": "scared",
+        "category": "Little Noises",
+        "src": "audio/Little Noises/scared.wav"
+    },
+    {
+        "name": "stop right there",
+        "category": "Little Noises",
+        "src": "audio/Little Noises/stop right there.wav"
+    },
+    {
+        "name": "stop-hipster",
+        "category": "Little Noises",
+        "src": "audio/Little Noises/stop-hipster.wav"
+    },
+    {
+        "name": "takeoffmyclothing",
+        "category": "Little Noises",
+        "src": "audio/Little Noises/takeoffmyclothing.wav"
+    },
+    {
+        "name": "uhuh",
+        "category": "Little Noises",
+        "src": "audio/Little Noises/uhuh.wav"
+    },
+    {
+        "name": "umitigated delusion",
+        "category": "Little Noises",
+        "src": "audio/Little Noises/umitigated delusion.wav"
+    },
+    {
+        "name": "yousee",
+        "category": "Little Noises",
+        "src": "audio/Little Noises/yousee.wav"
+    },
+    {
+        "name": "SWLOBUG",
+        "category": "Marlon Brando",
+        "src": "audio/Marlon Brando/SWLOBUG.WAV"
+    },
+    {
+        "name": "a recording",
+        "category": "negativland",
+        "src": "audio/negativland/a recording.wav"
+    },
+    {
+        "name": "another loop",
+        "category": "negativland",
+        "src": "audio/negativland/another loop.wav"
+    },
+    {
+        "name": "Big Deal",
+        "category": "negativland",
+        "src": "audio/negativland/Big Deal.wav"
+    },
+    {
+        "name": "boopaleep",
+        "category": "negativland",
+        "src": "audio/negativland/boopaleep.wav"
+    },
+    {
+        "name": "buhbuhbuh",
+        "category": "negativland",
+        "src": "audio/negativland/buhbuhbuh.wav"
+    },
+    {
+        "name": "BUKKSHT",
+        "category": "negativland",
+        "src": "audio/negativland/BUKKSHT.WAV"
+    },
+    {
+        "name": "comeon",
+        "category": "negativland",
+        "src": "audio/negativland/comeon.wav"
+    },
+    {
+        "name": "DONPHN",
+        "category": "negativland",
+        "src": "audio/negativland/DONPHN.WAV"
+    },
+    {
+        "name": "dumb stupid idiots",
+        "category": "negativland",
+        "src": "audio/negativland/dumb stupid idiots.wav"
+    },
+    {
+        "name": "dummy",
+        "category": "negativland",
+        "src": "audio/negativland/dummy.wav"
+    },
+    {
+        "name": "failure",
+        "category": "negativland",
+        "src": "audio/negativland/failure.wav"
+    },
+    {
+        "name": "floppy whatta floppy",
+        "category": "negativland",
+        "src": "audio/negativland/floppy whatta floppy.wav"
+    },
+    {
+        "name": "floppy",
+        "category": "negativland",
+        "src": "audio/negativland/floppy.wav"
+    },
+    {
+        "name": "floppy2",
+        "category": "negativland",
+        "src": "audio/negativland/floppy2.wav"
+    },
+    {
+        "name": "floppyfloppyfloppy",
+        "category": "negativland",
+        "src": "audio/negativland/floppyfloppyfloppy.wav"
+    },
+    {
+        "name": "fuknponderus",
+        "category": "negativland",
+        "src": "audio/negativland/fuknponderus.wav"
+    },
+    {
+        "name": "fuknponderus2",
+        "category": "negativland",
+        "src": "audio/negativland/fuknponderus2.wav"
+    },
+    {
+        "name": "I wrote those ads",
+        "category": "negativland",
+        "src": "audio/negativland/I wrote those ads.wav"
+    },
+    {
+        "name": "Im the vegetable",
+        "category": "negativland",
+        "src": "audio/negativland/Im the vegetable.wav"
+    },
+    {
+        "name": "isthatall",
+        "category": "negativland",
+        "src": "audio/negativland/isthatall.wav"
+    },
+    {
+        "name": "KCRAV1",
+        "category": "negativland",
+        "src": "audio/negativland/KCRAV1.WAV"
+    },
+    {
+        "name": "KCRAV2",
+        "category": "negativland",
+        "src": "audio/negativland/KCRAV2.WAV"
+    },
+    {
+        "name": "machine blew up",
+        "category": "negativland",
+        "src": "audio/negativland/machine blew up.wav"
+    },
+    {
+        "name": "mmmhmm",
+        "category": "negativland",
+        "src": "audio/negativland/mmmhmm.wav"
+    },
+    {
+        "name": "now the excitement",
+        "category": "negativland",
+        "src": "audio/negativland/now the excitement.wav"
+    },
+    {
+        "name": "OFUK",
+        "category": "negativland",
+        "src": "audio/negativland/OFUK.WAV"
+    },
+    {
+        "name": "outtamemory",
+        "category": "negativland",
+        "src": "audio/negativland/outtamemory.wav"
+    },
+    {
+        "name": "phone connection",
+        "category": "negativland",
+        "src": "audio/negativland/phone connection.wav"
+    },
+    {
+        "name": "sound of my voice",
+        "category": "negativland",
+        "src": "audio/negativland/sound of my voice.wav"
+    },
+    {
+        "name": "talk to a robot",
+        "category": "negativland",
+        "src": "audio/negativland/talk to a robot.wav"
+    },
+    {
+        "name": "talking fast",
+        "category": "negativland",
+        "src": "audio/negativland/talking fast.wav"
+    },
+    {
+        "name": "urine trouble",
+        "category": "negativland",
+        "src": "audio/negativland/urine trouble.wav"
+    },
+    {
+        "name": "weatherman",
+        "category": "negativland",
+        "src": "audio/negativland/weatherman.wav"
+    },
+    {
+        "name": "WeBrokeTheLaw",
+        "category": "negativland",
+        "src": "audio/negativland/WeBrokeTheLaw.wav"
+    },
+    {
+        "name": "yeah okay",
+        "category": "negativland",
+        "src": "audio/negativland/yeah okay.wav"
+    },
+    {
+        "name": "100pctguilty",
+        "category": "OJ Simpson",
+        "src": "audio/OJ Simpson/100pctguilty.wav"
+    },
+    {
+        "name": "go figure",
+        "category": "OJ Simpson",
+        "src": "audio/OJ Simpson/go figure.wav"
+    },
+    {
+        "name": "I Love Everybody",
+        "category": "OJ Simpson",
+        "src": "audio/OJ Simpson/I Love Everybody.wav"
+    },
+    {
+        "name": "lookout",
+        "category": "OJ Simpson",
+        "src": "audio/OJ Simpson/lookout.wav"
+    },
+    {
+        "name": "plead 5",
+        "category": "OJ Simpson",
+        "src": "audio/OJ Simpson/plead 5.wav"
+    },
+    {
+        "name": "reallyman",
+        "category": "OJ Simpson",
+        "src": "audio/OJ Simpson/reallyman.wav"
+    },
+    {
+        "name": "stab my wife",
+        "category": "OJ Simpson",
+        "src": "audio/OJ Simpson/stab my wife.wav"
+    },
+    {
+        "name": "whatthehell",
+        "category": "OJ Simpson",
+        "src": "audio/OJ Simpson/whatthehell.wav"
+    },
+    {
+        "name": "chrisv",
+        "category": "Phone Calls",
+        "src": "audio/Phone Calls/chrisv.wav"
+    },
+    {
+        "name": "gabbledy gaben",
+        "category": "Phone Calls",
+        "src": "audio/Phone Calls/gabbledy gaben.wav"
+    },
+    {
+        "name": "GETSTART",
+        "category": "Phone Calls",
+        "src": "audio/Phone Calls/GETSTART.WAV"
+    },
+    {
+        "name": "odd call 1",
+        "category": "Phone Calls",
+        "src": "audio/Phone Calls/odd call 1.wav"
+    },
+    {
+        "name": "PHN#",
+        "category": "Phone Calls",
+        "src": "audio/Phone Calls/PHN#.WAV"
+    },
+    {
+        "name": "4PLAY",
+        "category": "Putney Swope",
+        "src": "audio/Putney Swope/4PLAY.WAV"
+    },
+    {
+        "name": "MARIO",
+        "category": "Putney Swope",
+        "src": "audio/Putney Swope/MARIO.WAV"
+    },
+    {
+        "name": "SILIBUL",
+        "category": "Putney Swope",
+        "src": "audio/Putney Swope/SILIBUL.WAV"
+    },
+    {
+        "name": "HATECOPS",
+        "category": "Slacker",
+        "src": "audio/Slacker/HATECOPS.WAV"
+    },
+    {
+        "name": "ImAMedicalDoctor",
+        "category": "Slacker",
+        "src": "audio/Slacker/ImAMedicalDoctor.mp3"
+    },
+    {
+        "name": "MedicalDoctor",
+        "category": "Slacker",
+        "src": "audio/Slacker/MedicalDoctor.mp3"
+    },
+    {
+        "name": "USHUD",
+        "category": "Slacker",
+        "src": "audio/Slacker/USHUD.WAV"
+    },
+    {
+        "name": "UUU",
+        "category": "Slacker",
+        "src": "audio/Slacker/UUU.WAV"
+    },
+    {
+        "name": "dig rebop",
+        "category": "The Wild One",
+        "src": "audio/The Wild One/dig rebop.wav"
+    },
+    {
+        "name": "dont like copth",
+        "category": "The Wild One",
+        "src": "audio/The Wild One/dont like copth.wav"
+    },
+    {
+        "name": "have a ball",
+        "category": "The Wild One",
+        "src": "audio/The Wild One/have a ball.wav"
+    },
+    {
+        "name": "hwhat",
+        "category": "The Wild One",
+        "src": "audio/The Wild One/hwhat.wav"
+    },
+    {
+        "name": "jive",
+        "category": "The Wild One",
+        "src": "audio/The Wild One/jive.wav"
+    },
+    {
+        "name": "No Deal",
+        "category": "The Wild One",
+        "src": "audio/The Wild One/No Deal.wav"
+    },
+    {
+        "name": "pick up on this jive",
+        "category": "The Wild One",
+        "src": "audio/The Wild One/pick up on this jive.wav"
+    },
+    {
+        "name": "rebop - full",
+        "category": "The Wild One",
+        "src": "audio/The Wild One/rebop - full.wav"
+    },
+    {
+        "name": "so rude",
+        "category": "The Wild One",
+        "src": "audio/The Wild One/so rude.wav"
+    },
+    {
+        "name": "square",
+        "category": "The Wild One",
+        "src": "audio/The Wild One/square.wav"
+    },
+    {
+        "name": "talkin about",
+        "category": "The Wild One",
+        "src": "audio/The Wild One/talkin about.wav"
+    },
+    {
+        "name": "wail",
+        "category": "The Wild One",
+        "src": "audio/The Wild One/wail.wav"
+    },
+    {
+        "name": "get the whiskey",
+        "category": "Train Robbers",
+        "src": "audio/Train Robbers/get the whiskey.wav"
+    },
+    {
+        "name": "gettin used to it",
+        "category": "Train Robbers",
+        "src": "audio/Train Robbers/gettin used to it.wav"
+    },
+    {
+        "name": "Last Bottle",
+        "category": "Train Robbers",
+        "src": "audio/Train Robbers/Last Bottle.wav"
+    },
+    {
+        "name": "youre a man",
+        "category": "Train Robbers",
+        "src": "audio/Train Robbers/youre a man.wav"
+    },
+    {
+        "name": "Bad Dream",
+        "category": "Twilight Zone",
+        "src": "audio/Twilight Zone/Bad Dream.mp3"
+    },
+    {
+        "name": "Burnt Copper",
+        "category": "Twilight Zone",
+        "src": "audio/Twilight Zone/Burnt Copper.wav"
+    },
+    {
+        "name": "DyingEarly-full",
+        "category": "Twilight Zone",
+        "src": "audio/Twilight Zone/DyingEarly-full.wav"
+    },
+    {
+        "name": "DyingEarly",
+        "category": "Twilight Zone",
+        "src": "audio/Twilight Zone/DyingEarly.wav"
+    },
+    {
+        "name": "HELP_ME",
+        "category": "Twilight Zone",
+        "src": "audio/Twilight Zone/HELP_ME.WAV"
+    },
+    {
+        "name": "IWasGood",
+        "category": "Twilight Zone",
+        "src": "audio/Twilight Zone/IWasGood.wav"
+    },
+    {
+        "name": "mocked",
+        "category": "Twilight Zone",
+        "src": "audio/Twilight Zone/mocked.mp3"
+    },
+    {
+        "name": "NO",
+        "category": "Twilight Zone",
+        "src": "audio/Twilight Zone/NO.wav"
+    },
+    {
+        "name": "Not Again",
+        "category": "Twilight Zone",
+        "src": "audio/Twilight Zone/Not Again.wav"
+    },
+    {
+        "name": "Rummy",
+        "category": "Twilight Zone",
+        "src": "audio/Twilight Zone/Rummy.wav"
+    },
+    {
+        "name": "Wake Up",
+        "category": "Twilight Zone",
+        "src": "audio/Twilight Zone/Wake Up.mp3"
+    },
+    {
+        "name": "Witness",
+        "category": "Twilight Zone",
+        "src": "audio/Twilight Zone/Witness.mp3"
+    },
+    {
+        "name": "authenticate",
+        "category": "War Games",
+        "src": "audio/War Games/authenticate.mp3"
+    },
+    {
+        "name": "chess",
+        "category": "War Games",
+        "src": "audio/War Games/chess.mp3"
+    },
+    {
+        "name": "countdown-og",
+        "category": "War Games",
+        "src": "audio/War Games/countdown-og.mp3"
+    },
+    {
+        "name": "countdown",
+        "category": "War Games",
+        "src": "audio/War Games/countdown.mp3"
+    },
+    {
+        "name": "Damned_Password",
+        "category": "War Games",
+        "src": "audio/War Games/Damned_Password.mp3"
+    },
+    {
+        "name": "david",
+        "category": "War Games",
+        "src": "audio/War Games/david.mp3"
+    },
+    {
+        "name": "defcon3",
+        "category": "War Games",
+        "src": "audio/War Games/defcon3.mp3"
+    },
+    {
+        "name": "machines_dont_call_people",
+        "category": "War Games",
+        "src": "audio/War Games/machines_dont_call_people.mp3"
+    },
+    {
+        "name": "marijuana",
+        "category": "War Games",
+        "src": "audio/War Games/marijuana.mp3"
+    },
+    {
+        "name": "Mr_President_Bullshit",
+        "category": "War Games",
+        "src": "audio/War Games/Mr_President_Bullshit.mp3"
+    },
+    {
+        "name": "not_a_real_voice",
+        "category": "War Games",
+        "src": "audio/War Games/not_a_real_voice.mp3"
+    },
+    {
+        "name": "pig_eyed",
+        "category": "War Games",
+        "src": "audio/War Games/pig_eyed.mp3"
+    },
+    {
+        "name": "piss_on_a_sparkplug",
+        "category": "War Games",
+        "src": "audio/War Games/piss_on_a_sparkplug.mp3"
+    },
+    {
+        "name": "pointless",
+        "category": "War Games",
+        "src": "audio/War Games/pointless.mp3"
+    },
+    {
+        "name": "red-dash-alpha message",
+        "category": "War Games",
+        "src": "audio/War Games/red-dash-alpha message.mp3"
+    },
+    {
+        "name": "ring",
+        "category": "War Games",
+        "src": "audio/War Games/ring.mp3"
+    },
+    {
+        "name": "shall_we_play_a_game",
+        "category": "War Games",
+        "src": "audio/War Games/shall_we_play_a_game.mp3"
+    },
+    {
+        "name": "were_here",
+        "category": "War Games",
+        "src": "audio/War Games/were_here.mp3"
+    },
+    {
+        "name": "whats_so_special",
+        "category": "War Games",
+        "src": "audio/War Games/whats_so_special.mp3"
+    },
+    {
+        "name": "beaver hat",
+        "category": "westerns",
+        "src": "audio/westerns/beaver hat.wav"
+    },
+    {
+        "name": "CRUMDEL",
+        "category": "westerns",
+        "src": "audio/westerns/CRUMDEL.WAV"
+    },
+    {
+        "name": "gabby hayes",
+        "category": "westerns",
+        "src": "audio/westerns/gabby hayes.mp3"
+    },
+    {
+        "name": "HPY2HR",
+        "category": "westerns",
+        "src": "audio/westerns/HPY2HR.WAV"
+    },
+    {
+        "name": "huckle-1",
+        "category": "westerns",
+        "src": "audio/westerns/huckle-1.wav"
+    },
+    {
+        "name": "OUTANERV",
+        "category": "westerns",
+        "src": "audio/westerns/OUTANERV.WAV"
+    },
+    {
+        "name": "sissyboy",
+        "category": "westerns",
+        "src": "audio/westerns/sissyboy.wav"
+    },
+    {
+        "name": "STILALV",
+        "category": "westerns",
+        "src": "audio/westerns/STILALV.WAV"
+    },
+    {
+        "name": "Still Alive full",
+        "category": "westerns",
+        "src": "audio/westerns/Still Alive full.mp3"
+    },
+    {
+        "name": "thank you davie",
+        "category": "westerns",
+        "src": "audio/westerns/thank you davie.wav"
+    },
+    {
+        "name": "wayne amiga",
+        "category": "westerns",
+        "src": "audio/westerns/wayne amiga.wav"
+    },
+    {
+        "name": "WHISKY",
+        "category": "westerns",
+        "src": "audio/westerns/WHISKY.WAV"
+    }
+]

@@ -1,0 +1,236 @@
+/* Dark Mode Elegance */
+/* Background: Dark Gray (#1E1E1E) */
+/* Primary Accent: Electric Blue (#0DB9F0) */
+/* Secondary Accent: Soft Purple (#8A2BE2) */
+/* Text: Light Gray (#D3D3D3) */
+/* Buttons: Teal (#008080 / rgba(0, 128, 128, 1)) with White Text (#FFFFFF) */
+
+/* FONTS */
+/* rubik dirt / Noto Sans */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Rubik+Dirt&display=swap');
+
+.rubik-dirt-regular {
+    font-family: "Rubik Dirt", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.noto-sans-700 {
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+
+body {
+    background-color: #1E1E1E;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #0DB9F0; 
+    font-family: "Noto Sans", sans-serif;
+}
+
+h1.rubik-dirt-regular {
+/*    color: #8A2BE2; */
+    font-size: 4.5em;
+    margin-block-start: 0;
+    margin-block-end: 0.33em;
+}
+
+/* Categories */
+#cat {
+    border-right: 6px solid #007BFF;
+    margin-right: 1em;
+}
+
+h2#sources {
+    color:#007BFF;
+    margin-block-start: 0.25em;
+    margin-block-end: 0.25em;
+    margin-left: 1em;
+    margin-right: 1em;
+    text-align: center;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    padding-right:10px;
+}
+
+#category-search {
+    font-family: "Noto Sans", sans-serif;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+/* END Categories */
+
+.header-right {
+    margin-top:2.5em;
+}
+
+.header-right h3, .header-right h4 {
+    margin-block-start: 0;
+    margin-block-end: 0.33em;
+}
+.header-right h3 {
+    font-size:1em;
+}
+
+#search-panel {
+    background-color: #CCC;
+    border: 3px solid #000;
+    border-radius: 8px;
+}
+
+#search-bar {
+    min-height: 1.5em;
+    min-width: 20em;
+}
+
+#reset-filters {
+    background-color: #007BFF;
+    border: 1px solid black;
+    color:#fff;
+    font-size: 0.7em;
+    padding: 3px 15px;
+}
+
+#reset-filters:hover {
+    background-color: #0DB9F0;
+    border: 1px solid black;
+    color:#000;
+    padding: 3px 15px;
+}
+
+.button-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+   /* width: 380px; */
+    margin: 0 auto;
+    margin-right: auto;
+}
+
+.input {
+    margin-top:0.6em;
+}
+
+.soundboard { 
+    display: flex; 
+    flex-wrap: wrap; 
+    gap: 10px; 
+    margin-top: 20px; 
+    justify-content: center;
+}
+
+.sound-button { 
+    padding: 10px; 
+    background-color: rgba(0, 128, 128, 1); 
+    color: #fff; 
+    border: none; 
+    border-radius: 2px;
+    cursor: pointer; 
+}
+
+.sound-button:hover { 
+    background-color: rgba(0, 128, 128, 0.5); 
+}
+
+.filters { 
+    margin: 4px 0; 
+}
+
+.filter-button { 
+    margin: 2px; 
+    padding: 4px; 
+    border: none; 
+    background-color: #007BFF; 
+    color: #FFF;
+    cursor: pointer; 
+    border: 1px solid black;
+    border-radius 2px; 
+    font-size:0.7em;
+}
+
+.filter-button.active { 
+    background-color: #0DB9F0; 
+    color: #000; 
+}
+
+.filter-button:hover { 
+    background-color: #0DB9F0; 
+    color: #000; 
+}
+
+#stop-sounds, #toggle-nsfw { 
+    margin-top: 10px; 
+    padding: 0px 10px; 
+    background-color: #FF0000; 
+    color: #fff; 
+    border: none; 
+    cursor: pointer; 
+    font-size:0.7em;
+}
+
+#stop-sounds { 
+    background-color: #FF0000; 
+    color: #fff; 
+    border: 1px solid black;
+    border-radius 2px;
+}
+
+#stop-sounds:hover { 
+    background-color: #cc0000; 
+}
+
+#toggle-nsfw { 
+    background-color: #FFA500; 
+    color: #fff; 
+}
+
+#toggle-nsfw:hover { 
+    background-color: #cc8500; 
+}
+
+.sort-buttons { 
+    margin-top: 10px; 
+}
+
+.sort-button { 
+    margin-right: 10px; 
+    padding: 2px 10px; 
+    background-color: #007BFF; color: #FFF; 
+    cursor: pointer; 
+    border: 1px solid black;border-radius 2px;
+    font-size:0.7em;
+}
+
+.sort-button:hover { 
+    background-color: #0DB9F0; 
+    color: #000; 
+}
+
+.checkbox-label { 
+    margin-top: 5px; 
+    font-size: 0.65em;
+    font-weight:400; 
+}
