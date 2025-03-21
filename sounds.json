@@ -265,6 +265,51 @@
         "src": "audio/Blue Velvet/wild03.wav"
     },
     {
+        "name": "Brotherhood of Man",
+        "category": "Carol for Another Christmas",
+        "src": "audio/Carol for Another Christmas/Brotherhood of Man.wav"
+    },
+    {
+        "name": "Chicken",
+        "category": "Carol for Another Christmas",
+        "src": "audio/Carol for Another Christmas/Chicken.wav"
+    },
+    {
+        "name": "Feel The Pain",
+        "category": "Carol for Another Christmas",
+        "src": "audio/Carol for Another Christmas/Feel The Pain.wav"
+    },
+    {
+        "name": "Hophead Putrefaction",
+        "category": "Carol for Another Christmas",
+        "src": "audio/Carol for Another Christmas/Hophead Putrefaction.wav"
+    },
+    {
+        "name": "Itch",
+        "category": "Carol for Another Christmas",
+        "src": "audio/Carol for Another Christmas/Itch.wav"
+    },
+    {
+        "name": "Ive had it",
+        "category": "Carol for Another Christmas",
+        "src": "audio/Carol for Another Christmas/Ive had it.wav"
+    },
+    {
+        "name": "Mind Your Business",
+        "category": "Carol for Another Christmas",
+        "src": "audio/Carol for Another Christmas/Mind Your Business.wav"
+    },
+    {
+        "name": "Outta My Life",
+        "category": "Carol for Another Christmas",
+        "src": "audio/Carol for Another Christmas/Outta My Life.wav"
+    },
+    {
+        "name": "So it is",
+        "category": "Carol for Another Christmas",
+        "src": "audio/Carol for Another Christmas/So it is.wav"
+    },
+    {
         "name": "BIGGIRL",
         "category": "Cary Grant",
         "src": "audio/Cary Grant/BIGGIRL.WAV"
@@ -775,14 +820,14 @@
         "src": "audio/DubbasTwitch/boopaloop.wav"
     },
     {
+        "name": "bouncin",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/bouncin.wav"
+    },
+    {
         "name": "bouncin_off_the_walls",
         "category": "DubbasTwitch",
         "src": "audio/DubbasTwitch/bouncin_off_the_walls.wav"
-    },
-    {
-        "name": "bs082324",
-        "category": "DubbasTwitch",
-        "src": "audio/DubbasTwitch/bs082324.aup3"
     },
     {
         "name": "BurpsyCola",
@@ -810,6 +855,16 @@
         "src": "audio/DubbasTwitch/coconut_mauled.wav"
     },
     {
+        "name": "coolcoolcool",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/coolcoolcool.wav"
+    },
+    {
+        "name": "corny-joke",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/corny-joke.wav"
+    },
+    {
         "name": "cottonpicken",
         "category": "DubbasTwitch",
         "src": "audio/DubbasTwitch/cottonpicken.wav"
@@ -828,6 +883,11 @@
         "name": "dangitDangIt",
         "category": "DubbasTwitch",
         "src": "audio/DubbasTwitch/dangitDangIt.wav"
+    },
+    {
+        "name": "doesissisit",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/doesissisit.wav"
     },
     {
         "name": "doesthatmakeissisit",
@@ -875,9 +935,29 @@
         "src": "audio/DubbasTwitch/DoooinIt.wav"
     },
     {
+        "name": "dubba_intro",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/dubba_intro.wav"
+    },
+    {
         "name": "eatmydust",
         "category": "DubbasTwitch",
         "src": "audio/DubbasTwitch/eatmydust.wav"
+    },
+    {
+        "name": "exciting",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/exciting.wav"
+    },
+    {
+        "name": "explain-it",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/explain-it.wav"
+    },
+    {
+        "name": "EZNow",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/EZNow.wav"
     },
     {
         "name": "FiguredYouOut",
@@ -888,6 +968,16 @@
         "name": "from_the_sound_of_my",
         "category": "DubbasTwitch",
         "src": "audio/DubbasTwitch/from_the_sound_of_my.wav"
+    },
+    {
+        "name": "Garbanzo Beans",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/Garbanzo Beans.wav"
+    },
+    {
+        "name": "GBH",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/GBH.wav"
     },
     {
         "name": "getBent",
@@ -905,14 +995,34 @@
         "src": "audio/DubbasTwitch/GoodGravy.wav"
     },
     {
+        "name": "got-the-joke",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/got-the-joke.wav"
+    },
+    {
+        "name": "GotIt",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/GotIt.wav"
+    },
+    {
         "name": "Gravous",
         "category": "DubbasTwitch",
         "src": "audio/DubbasTwitch/Gravous.wav"
     },
     {
+        "name": "gravy-in-first",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/gravy-in-first.wav"
+    },
+    {
         "name": "GravyGravyGravy",
         "category": "DubbasTwitch",
         "src": "audio/DubbasTwitch/GravyGravyGravy.wav"
+    },
+    {
+        "name": "gravylieber",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/gravylieber.wav"
     },
     {
         "name": "GravyMyGod",
@@ -965,6 +1075,11 @@
         "src": "audio/DubbasTwitch/horsewhipped.wav"
     },
     {
+        "name": "I am",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/I am.wav"
+    },
+    {
         "name": "ICannotBreathe",
         "category": "DubbasTwitch",
         "src": "audio/DubbasTwitch/ICannotBreathe.wav"
@@ -973,6 +1088,11 @@
         "name": "IGuess",
         "category": "DubbasTwitch",
         "src": "audio/DubbasTwitch/IGuess.wav"
+    },
+    {
+        "name": "IHearYou",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/IHearYou.wav"
     },
     {
         "name": "impressive",
@@ -1000,9 +1120,34 @@
         "src": "audio/DubbasTwitch/k-a-r-t-e-d.wav"
     },
     {
+        "name": "knock it off",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/knock it off.wav"
+    },
+    {
+        "name": "krankmachen",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/krankmachen.wav"
+    },
+    {
+        "name": "kYou",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/kYou.wav"
+    },
+    {
+        "name": "Less_Sense",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/Less_Sense.wav"
+    },
+    {
         "name": "LoveMe",
         "category": "DubbasTwitch",
         "src": "audio/DubbasTwitch/LoveMe.wav"
+    },
+    {
+        "name": "love_sunshine",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/love_sunshine.wav"
     },
     {
         "name": "masicBaths",
@@ -1018,6 +1163,11 @@
         "name": "mmmhmmm",
         "category": "DubbasTwitch",
         "src": "audio/DubbasTwitch/mmmhmmm.wav"
+    },
+    {
+        "name": "moonview",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/moonview.wav"
     },
     {
         "name": "MooseTurd-1",
@@ -1085,6 +1235,11 @@
         "src": "audio/DubbasTwitch/ohmybloodygod.wav"
     },
     {
+        "name": "PayYourBullitBill",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/PayYourBullitBill.wav"
+    },
+    {
         "name": "peachespeaches",
         "category": "DubbasTwitch",
         "src": "audio/DubbasTwitch/peachespeaches.wav"
@@ -1093,6 +1248,16 @@
         "name": "peanutbutterjelly",
         "category": "DubbasTwitch",
         "src": "audio/DubbasTwitch/peanutbutterjelly.wav"
+    },
+    {
+        "name": "peas-out",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/peas-out.wav"
+    },
+    {
+        "name": "Promo",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/Promo.wav"
     },
     {
         "name": "raid",
@@ -1180,6 +1345,11 @@
         "src": "audio/DubbasTwitch/ThankYouGravy.wav"
     },
     {
+        "name": "theme_song",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/theme_song.wav"
+    },
+    {
         "name": "Tie-NotWearing",
         "category": "DubbasTwitch",
         "src": "audio/DubbasTwitch/Tie-NotWearing.wav"
@@ -1200,9 +1370,24 @@
         "src": "audio/DubbasTwitch/unsportsmanlike.wav"
     },
     {
+        "name": "untitled",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/untitled.wav"
+    },
+    {
+        "name": "untitled2",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/untitled2.wav"
+    },
+    {
         "name": "UsuallySmart",
         "category": "DubbasTwitch",
         "src": "audio/DubbasTwitch/UsuallySmart.wav"
+    },
+    {
+        "name": "vow",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/vow.wav"
     },
     {
         "name": "weatherman-insult",
@@ -1215,9 +1400,19 @@
         "src": "audio/DubbasTwitch/what.wav"
     },
     {
+        "name": "whatever-gravy",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/whatever-gravy.wav"
+    },
+    {
         "name": "whatIndeed",
         "category": "DubbasTwitch",
         "src": "audio/DubbasTwitch/whatIndeed.wav"
+    },
+    {
+        "name": "WhatsThatNow",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/WhatsThatNow.wav"
     },
     {
         "name": "whatwasthat",
@@ -1235,6 +1430,11 @@
         "src": "audio/DubbasTwitch/what_the_floppy.wav"
     },
     {
+        "name": "who",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/who.wav"
+    },
+    {
         "name": "why you little",
         "category": "DubbasTwitch",
         "src": "audio/DubbasTwitch/why you little.wav"
@@ -1248,6 +1448,16 @@
         "name": "winning",
         "category": "DubbasTwitch",
         "src": "audio/DubbasTwitch/winning.wav"
+    },
+    {
+        "name": "wrecking-cew",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/wrecking-cew.wav"
+    },
+    {
+        "name": "wrecking-crew",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/wrecking-crew.wav"
     },
     {
         "name": "yeah_that",
@@ -1450,6 +1660,16 @@
         "src": "audio/Jack Van Impe/WATSCMNG.WAV"
     },
     {
+        "name": "Actor_Juggler_Mime",
+        "category": "Little Noises",
+        "src": "audio/Little Noises/Actor_Juggler_Mime.wav"
+    },
+    {
+        "name": "Am_I_Wrong",
+        "category": "Little Noises",
+        "src": "audio/Little Noises/Am_I_Wrong.wav"
+    },
+    {
         "name": "biglie",
         "category": "Little Noises",
         "src": "audio/Little Noises/biglie.wav"
@@ -1465,9 +1685,9 @@
         "src": "audio/Little Noises/collaborate.wav"
     },
     {
-        "name": "doinit",
+        "name": "Doin_It",
         "category": "Little Noises",
-        "src": "audio/Little Noises/doinit.wav"
+        "src": "audio/Little Noises/Doin_It.wav"
     },
     {
         "name": "great",
@@ -1478,6 +1698,11 @@
         "name": "guffaw",
         "category": "Little Noises",
         "src": "audio/Little Noises/guffaw.wav"
+    },
+    {
+        "name": "hem_haw",
+        "category": "Little Noises",
+        "src": "audio/Little Noises/hem_haw.wav"
     },
     {
         "name": "idea",
@@ -1495,9 +1720,19 @@
         "src": "audio/Little Noises/little noises amiga.wav"
     },
     {
+        "name": "looking_forward",
+        "category": "Little Noises",
+        "src": "audio/Little Noises/looking_forward.wav"
+    },
+    {
         "name": "LOSER",
         "category": "Little Noises",
         "src": "audio/Little Noises/LOSER.WAV"
+    },
+    {
+        "name": "Not_Talking_To_You",
+        "category": "Little Noises",
+        "src": "audio/Little Noises/Not_Talking_To_You.wav"
     },
     {
         "name": "scared",
@@ -1518,6 +1753,11 @@
         "name": "takeoffmyclothing",
         "category": "Little Noises",
         "src": "audio/Little Noises/takeoffmyclothing.wav"
+    },
+    {
+        "name": "That_Is_Great",
+        "category": "Little Noises",
+        "src": "audio/Little Noises/That_Is_Great.wav"
     },
     {
         "name": "uhuh",
@@ -1567,7 +1807,8 @@
     {
         "name": "BUKKSHT",
         "category": "negativland",
-        "src": "audio/negativland/BUKKSHT.WAV"
+        "src": "audio/negativland/BUKKSHT.WAV",
+        "nsfw": "1"
     },
     {
         "name": "comeon",
@@ -1577,7 +1818,8 @@
     {
         "name": "DONPHN",
         "category": "negativland",
-        "src": "audio/negativland/DONPHN.WAV"
+        "src": "audio/negativland/DONPHN.WAV",
+        "nsfw": "1"
     },
     {
         "name": "dumb stupid idiots",
@@ -1617,12 +1859,16 @@
     {
         "name": "fuknponderus",
         "category": "negativland",
-        "src": "audio/negativland/fuknponderus.wav"
+        "src": "audio/negativland/fuknponderus.wav",
+        "nsfw": "1"
+
     },
     {
         "name": "fuknponderus2",
         "category": "negativland",
-        "src": "audio/negativland/fuknponderus2.wav"
+        "src": "audio/negativland/fuknponderus2.wav",
+        "nsfw": "1"
+
     },
     {
         "name": "I wrote those ads",
@@ -1642,12 +1888,16 @@
     {
         "name": "KCRAV1",
         "category": "negativland",
-        "src": "audio/negativland/KCRAV1.WAV"
+        "src": "audio/negativland/KCRAV1.WAV",
+        "nsfw": "1"
+
     },
     {
         "name": "KCRAV2",
         "category": "negativland",
-        "src": "audio/negativland/KCRAV2.WAV"
+        "src": "audio/negativland/KCRAV2.WAV",
+        "nsfw": "1"
+
     },
     {
         "name": "machine blew up",
@@ -1667,12 +1917,16 @@
     {
         "name": "OFUK",
         "category": "negativland",
-        "src": "audio/negativland/OFUK.WAV"
+        "src": "audio/negativland/OFUK.WAV",
+        "nsfw": "1"
+
     },
     {
         "name": "outtamemory",
         "category": "negativland",
-        "src": "audio/negativland/outtamemory.wav"
+        "src": "audio/negativland/outtamemory.wav",
+        "nsfw": "1"
+
     },
     {
         "name": "phone connection",
@@ -2113,5 +2367,10 @@
         "name": "WHISKY",
         "category": "westerns",
         "src": "audio/westerns/WHISKY.WAV"
+    },
+    {
+        "name": "RandomAss",
+        "category": "DubbasTwitch",
+        "src": "audio/DubbasTwitch/RandomAss.wav"
     }
 ]
